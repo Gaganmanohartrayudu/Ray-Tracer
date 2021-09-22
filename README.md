@@ -11,3 +11,5 @@ intersections. The final colour of the light rays is stored per pixel of the
 final image in the format of PPM.
 
 
+Renders:
+<img width="832" alt="Screenshot 2021-09-22 at 2 32 35 PM" src="https://user-images.githubusercontent.com/90203022/134314888-510494f2-0c44-44b1-8743-8fb472288340.png">
